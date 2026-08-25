@@ -49,7 +49,6 @@ Regenerated every 12 hours by a GitHub Action.
   </picture>
 </div>
 
-
 ---
 
 ### Stats
@@ -67,29 +66,11 @@ a public badge service goes down. Transparent background — readable in both th
 
 ---
 
-<details>
-<summary><b>Selected projects</b></summary>
-
-<br>
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [ai-brain-starter](https://github.com/alejandrod-24/ai-brain-starter) | Memory, journaling and pattern recognition for Claude Code sessions | Python |
-| [trading-bot](https://github.com/alejandrod-24/trading-bot) | Automated trading strategies and backtesting | Python |
-| [Aromas---POS](https://github.com/alejandrod-24/Aromas---POS) | Point-of-sale system with a PostgreSQL backend | TypeScript · PL/pgSQL |
-| [xuepets---landing](https://github.com/alejandrod-24/xuepets---landing) | Product landing site | Next.js · React · Tailwind |
-| [Agente](https://github.com/alejandrod-24/Agente) | WhatsApp agent | Shell · Python |
-
-</details>
-
----
-
 <div align="center">
 
 <a href="https://github.com/alejandrod-24"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <!-- Add your own: LinkedIn, X, email, personal site
 <a href="https://linkedin.com/in/USER"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 -->
-
 
 </div>
