@@ -67,11 +67,7 @@ a public badge service goes down. Transparent background — readable in both th
 
 <img src="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/main/metrics/base.svg" alt="GitHub metrics" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=alejandrod-24&hide_border=true&background=00000000&stroke=8B949E&border=8B949E&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="Contribution streak" />
-
 <img src="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/main/metrics/languages.svg" alt="Most used languages" />
-
-<img src="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/main/metrics/habits.svg" alt="Coding habits" />
 
 </div>
 
