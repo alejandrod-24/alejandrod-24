@@ -38,13 +38,22 @@ surfaces in Next.js + TypeScript, and the occasional algorithms-heavy Java proje
 
 ### Contribution arcade
 
-Pac-Man eats my commits. Regenerated every 12 hours by a GitHub Action.
+Pac-Man eats my commits, then Breakout knocks the rest down.
+Both regenerated every 12 hours by a GitHub Action.
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/output/breakout-contribution-graph.svg">
+    <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/output/breakout-contribution-graph.svg">
   </picture>
 </div>
 
