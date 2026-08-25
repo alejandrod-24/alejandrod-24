@@ -48,13 +48,6 @@ Pac-Man eats my commits. Regenerated every 12 hours by a GitHub Action.
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/main/profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/main/profile-3d-contrib/profile-season-animate.svg">
-    <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/alejandrod-24/alejandrod-24/main/profile-3d-contrib/profile-season-animate.svg">
-  </picture>
-</div>
 
 ---
 
