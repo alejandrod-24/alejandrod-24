@@ -1,4 +1,4 @@
-name: pacman contribution graph
+name: arcade contribution graph
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: pacman,breakout
+          games: breakout
           hide_month_labels: "false"
 
       # Writes dist/pacman-contribution-graph.svg and *-dark.svg to the output branch
